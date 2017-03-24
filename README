@@ -1,0 +1,9 @@
+symbolgen - generates CSV files that can be used by NBBO and Order generator
+	  * needs to be able to generate [0,100M] number of symbols
+	  * configurable (where it CSV files writes to, name, number of tickers, etc.)
+
+
+Libraries used:
+	  libconfig++
+	  spdlog
+
